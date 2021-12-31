@@ -1,1 +1,1 @@
-# LintCode-Shared-Solutions
+# Luogu-Shared-Solutions
